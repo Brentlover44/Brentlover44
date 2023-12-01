@@ -1,0 +1,103 @@
+<!DOCTYPE>
+</head>
+</body>
+
+<h1>Home </h1>
+<h2>About </h2>
+<html>
+<head>
+<style>
+  
+h2 {text-align: right;}
+<h3>Contact</h3>
+<h4>Resume</h4>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+.div1 {
+  width: 300px;
+  height: 100px;
+  border: 1px solid blue;
+}
+
+.div2 {
+  width: 300px;
+  height: 100px;  
+  padding: 50px;
+  border: 1px solid red;
+}
+</style>
+</head>
+<body>
+
+<h1>My Projects</h1>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
+
+<h1>Hello, I'm Rachel Miller, a creative UX/UI designer with outstanding taste in art.</h1>  
+<div>“Art is the elimination of the unnecessary.” – Pablo Picasso</div>
+
+</body>
+</html>
+
+ <!DOCTYPE>
+  </head>
+  </body>
+ <!--Card 1-->
+        <div class="card">
+          <a href="">
+            <!--Image-->
+              <img src="https://via.placeholder.com/400">
+            <!--Copy-->
+              <div class="card-copy">
+              <h3 class="margin-bottom_five">Bunny World Foundations</h3>
+              <p class="margin-top_zero"> Is a redesign of this non-profit organization that saves bunnies that were sold illegally and places them for adoption in better homes.</p>
+              <p class="link">View Case Study Name</p>
+            </div>
+ <button type="button" onclick="alert('Learn More')">Learn More</button>
+          </a>
+        </div>
+
+<!--Card 2-->
+         <div class="card">
+          <a href="">
+            <!--Image-->
+              <img src="https://via.placeholder.com/400">
+            <!--Copy-->
+              <div class="card-copy">
+              <h3 class="margin-bottom_five">Tav</h3>
+              <p class="margin-top_zero"> A app for travel that helps you avoid headaches by budgeting so you know how much everyone spending & saves you time when choosing activities to do with a group.</p>
+            </div>
+<button type="button" onclick="alert('Learn More')">Learn More</button>
+ 
+            
+</body>
+</html>
+          </a>
+        </div>
+        <!--Card 3-->
+         <div class="card">
+          <a href="">
+            <!--Image-->
+              <img src="https://via.placeholder.com/400">
+            <!--Copy-->
+               <div class="card-copy">
+              <h3 class="margin-bottom_five">Loop</h3>
+              <p class="margin-top_zero"> Is an app that assists you find parking in areas where it's difficult to find public parking. You can pay for the parking in advance to make the process easier, and you can take a picture of your spot to remember where you parked.</p>
+              <p class="link">View Case Study Name</p>
+            </div>
+ <button type="button" onclick="alert('Learn More')">Learn More</button>
+          </a>
+        </div>
+
+
