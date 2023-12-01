@@ -100,4 +100,27 @@ div {text-align: center;}
           </a>
         </div>
 
+//Css//
+body {background-color: (#FDF0D5)
+  
+}
+
+
+ New Header 
+
+<h1>Home    About   Contact  Resume  </h1>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
+
+<h1>Hello, I'm Rachel Miller, a creative UX/UI designer with outstanding taste in art.</h1>  
+<div>“Art is the elimination of the unnecessary.” – Pablo Picasso</div>
+
 
